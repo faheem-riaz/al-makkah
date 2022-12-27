@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "749734272753",
+    "project_id": "al-makkah-faheem",
+    "storage_bucket": "al-makkah-faheem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749734272753:android:9c9c3ff6d3d2affd58d350",
+        "android_client_info": {
+          "package_name": "com.example.al_makkah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749734272753-lvd2jsb8str45i7v868piuiof15v3ep6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0STj3-DdkDDvUFqAti0a1Ae8QIt8ozY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749734272753-lvd2jsb8str45i7v868piuiof15v3ep6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749734272753-5mqvoc8e6p9ulg9j32sit5lol5uaqs42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alMakkah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
